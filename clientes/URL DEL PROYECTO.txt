@@ -1,0 +1,11 @@
+"clientes\src\main\resources\clientes.json"
+
+operaciones crud
+
+get : http://localhost:8095/Cliente/ver-todos
+
+delete: http://localhost:8095/Cliente/borrar/1
+
+put: http://localhost:8095/Cliente/actualizar 
+
+post: http://localhost:8095/Cliente/añadir
